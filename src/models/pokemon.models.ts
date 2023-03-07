@@ -3,7 +3,3 @@ export interface IPokemon {
   url: string;
 }
 
-export interface IFindAllParams {
-  limit: number;
-  offset: number;
-}
